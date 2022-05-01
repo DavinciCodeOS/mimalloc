@@ -30,6 +30,7 @@ lib_srcs = [
     "src/arena.c",
     "src/region.c",
     "src/segment.c",
+    "src/segment-cache.c",
     "src/page.c",
     "src/alloc.c",
     "src/alloc-aligned.c",
